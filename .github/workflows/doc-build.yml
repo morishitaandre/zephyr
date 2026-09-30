@@ -7,6 +7,7 @@ on:
   push:
     branches:
     - main
+    - topic/dart-mx95-support-ci-enabled
     tags:
     - v*
   pull_request:

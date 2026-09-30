@@ -30,6 +30,7 @@ on:
       - main
       - v*-branch
       - collab-*
+      - topic/dart-mx95-support-ci-enabled
 
 permissions:
   contents: read

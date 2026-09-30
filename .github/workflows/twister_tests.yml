@@ -9,6 +9,7 @@ on:
     - main
     - v*-branch
     - collab-*
+    - topic/dart-mx95-support-ci-enabled
     paths:
     - 'scripts/pylib/**'
     - 'scripts/twister'
